@@ -1,8 +1,2 @@
-# Primeiro Repositório
- Alguns Estudos Git e GitHub
-
- Repositório apenas de teste
-
-Essa linha eu adicionei direto pelo site! IMPRESSIONANTE
-
-Fizz mais 1 modificação!
+# Repósitorio feito para testes de commit, branch, merge e demais funcionalidades
+<h2> Testes feitos pelo GitHub Desktop, Terminal do Vscode e Git Bash </h2>
